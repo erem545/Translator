@@ -1,0 +1,26 @@
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Bezima\Downloads\Заказы\ИС холодильник\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\MySql.Data.DLL
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Bezima\Downloads\Заказы\Парсел Pascal в C#\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\Acer\Desktop\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
